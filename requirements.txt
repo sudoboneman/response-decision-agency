@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+pymongo
+certifi
+gunicorn
+groq
+tiktoken
+transformers
+huggingface_hub
