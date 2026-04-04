@@ -1,11 +1,3 @@
----
-title: PSI-09-vRAG
-colorFrom: blue
-colorTo: blue
-sdk: docker
-app_port: 7860
----
-
 # PSI-09 CONVERSATION AND ANALYSIS ENGINE (response decision agency)
 
 Core service for an already experimental conversational system.
